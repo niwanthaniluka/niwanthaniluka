@@ -28,10 +28,10 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2> <hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niwanthaniluka&show_icons=true&locale=en&layout=compact" alt="niwanthaniluka" /></p><hr/>
+<h2 align="center">⚡ Stats ⚡</h2> <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niwanthaniluka&show_icons=true&locale=en&layout=compact" alt="niwanthaniluka" /></p><br><hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niwanthaniluka&show_icons=true&locale=en" alt="niwanthaniluka" /></p><hr/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niwanthaniluka&show_icons=true&locale=en" alt="niwanthaniluka" /></p><br><hr/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niwanthaniluka&" alt="niwanthaniluka" /></p><hr/>
 
