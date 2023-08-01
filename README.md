@@ -28,12 +28,12 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2> <br>
+<h2 align="left">⚡ Stats ⚡</h2> <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niwanthaniluka&show_icons=true&locale=en&layout=compact" alt="niwanthaniluka" /></p><br><hr/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niwanthaniluka&show_icons=true&locale=en" alt="niwanthaniluka" /></p><br><hr/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niwanthaniluka&" alt="niwanthaniluka" /></p><hr/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niwanthaniluka&" alt="niwanthaniluka" /><br></p><hr/>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
