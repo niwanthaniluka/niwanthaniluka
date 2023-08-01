@@ -1,4 +1,4 @@
-<img align="center" alt="Coding1"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="center" alt="Coding1"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3kxBjdfUp7UGj2Cn2nb-G4&ust=1690944536667000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICQ77W5uoADFQAAAAAdAAAAABAJ">
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Niwantha+Niluka!;" />
