@@ -1,4 +1,4 @@
-<img align="center" alt="Coding1"  src="https://www.google.com/url?sa=i&url=http%3A%2F%2Flink.curriculumnacional.cl%2Fhttp%3A%2Fcpictures.homes%2Ftechnology-animated-gif&psig=AOvVaw0rfIhc_19xFIYWC_gjN3uK&ust=1705303200693000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCgyNKr3IMDFQAAAAAdAAAAABAh">
+<img align="center" alt="Coding1"  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Niwantha+Niluka!;" />
