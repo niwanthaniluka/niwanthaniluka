@@ -13,10 +13,10 @@
 
 - 📫 How to reach me **niwanthaicthons@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@niwantha99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@niwantha99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/niwantha niluka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niwantha niluka" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/niwantha-niluka-b44859274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niwantha niluka" height="30" width="40" /></a>
 <a href="https://fb.com/niwantha niluka senanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niwantha niluka senanayake" height="30" width="40" /></a>
 <a href="https://instagram.com/n_i_w_a_n_t_h_a_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n_i_w_a_n_t_h_a_99" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/s.r.niwantha niluka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="s.r.niwantha niluka" height="30" width="40" /></a>
