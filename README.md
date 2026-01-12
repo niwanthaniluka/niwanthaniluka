@@ -1,15 +1,24 @@
-<img align="center" alt="Coding1"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fe91322-e36d-4aca-8d83-41904f9e429f/df3kllr-32b45386-cb0b-4d18-8614-d9c5c5349294.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmZTkxMzIyLWUzNmQtNGFjYS04ZDgzLTQxOTA0ZjllNDI5ZlwvZGYza2xsci0zMmI0NTM4Ni1jYjBiLTRkMTgtODYxNC1kOWM1YzUzNDkyOTQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wXPGXM3Wy0nOUVmXi1d-CT031ZTvMjTdTsvYShmMXTY">
+<p align="center">
+  <img alt="Coding" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fe91322-e36d-4aca-8d83-41904f9e429f/df3kllr-32b45386-cb0b-4d18-8614-d9c5c5349294.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmZTkxMzIyLWUzNmQtNGFjYS04ZDgzLTQxOTA0ZjllNDI5ZlwvZGYza2xsci0zMmI0NTM4Ni1jYjBiLTRkMTgtODYxNC1kOWM1YzUzNDkyOTQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wXPGXM3Wy0nOUVmXi1d-CT031ZTvMjTdTsvYShmMXTY" width="100%">
+</p>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Niwantha+Niluka!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Niwantha+Niluka!;" />
 </h1>
+
 <h2 align="center">Building Scalable Web & Mobile Solutions</h2>
-<img align="center" alt="Colourline"  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niwanthaniluka&label=Profile%20views&color=0e75b6&style=flat" alt="niwanthaniluka" /> </p>
+<p align="center">
+  <img alt="Colourline" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
-- 📫 How to reach me **niwanthaicthons@gmail.com**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=niwanthaniluka&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  📫 How to reach me: <b>niwanthaicthons@gmail.com</b>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -17,10 +26,10 @@
 <a href="https://twitter.com/niwantha99" target="blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://facebook.com/niwanthaniluka" target="blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://instagram.com/n_i_w_a_n_t_h_a_99" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.youtube.com/c/niwanthaniluka" target="blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-<a href="mailto:niwanthaicthons@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.youtube.com/@niwanthaniluka" target="blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
+<hr/>
 
 <h3 align="left">🚀 Skills & Technologies:</h3>
 
@@ -53,19 +62,25 @@
 
 <hr/>
 
-<h2 align="left">⚡ Stats ⚡</h2> <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niwanthaniluka&show_icons=true&locale=en&layout=compact" alt="niwanthaniluka" /></p><br><br><hr/>
+<h2 align="left">⚡ GitHub Stats ⚡</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niwanthaniluka&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niwanthaniluka&show_icons=true&locale=en" alt="niwanthaniluka" /></p><br><hr/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niwanthaniluka&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niwanthaniluka&" alt="niwanthaniluka" /><br></p><hr/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niwanthaniluka&theme=radical" alt="Streak Stats" />
+</p>
+
+<hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)">
 </h3>
 
-<br/>
-
-<img align="center"  alt="Coding1"  src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png">
-
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%">
+</p>
