@@ -3,7 +3,7 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Niwantha+Niluka!;" />
 </h1>
-<h2 align="center">Be Aware Be Safe!</h2>
+<h2 align="center">Building Scalable Web & Mobile Solutions</h2>
 <img align="center" alt="Colourline"  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
